@@ -5,7 +5,7 @@
 import pandas as pd
 
 # Load the dataset into a DataFrame
-rainfall_data = pd.read_csv('f'/kaggle/input/airline-delay-and-cancellation-data-2009-2018/{file}.csv'')
+# rainfall_data = pd.read_csv('f'/kaggle/input/airline-delay-and-cancellation-data-2009-2018/{file}.csv'')
 
 # Database Setup
 # Assuming you have established a connection to the IBM DB2 database
